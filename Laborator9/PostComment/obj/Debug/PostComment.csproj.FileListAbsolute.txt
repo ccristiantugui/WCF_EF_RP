@@ -1,0 +1,12 @@
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\PostComment.dll.config
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\PostComment.dll
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\PostComment.pdb
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\EntityFramework.dll
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\EntityFramework.xml
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\obj\Debug\PostComment.dll
+E:\Cristian\.Net\Laborator 9\Laborator9\PostComment\obj\Debug\PostComment.pdb
